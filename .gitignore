@@ -26,6 +26,7 @@ ios/.xcode.env.local
 #
 build/
 .idea
+.vscode
 .gradle
 local.properties
 *.iml
@@ -64,3 +65,5 @@ yarn-error.log
 
 # testing
 /coverage
+
+/ios/NativewindTailwind34.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
